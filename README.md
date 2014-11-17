@@ -1,4 +1,4 @@
 my_blog_examples
 ================
 
-Code example from my blog
+Code examples from my blog
